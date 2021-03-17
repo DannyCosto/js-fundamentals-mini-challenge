@@ -15,9 +15,10 @@ console.log(counter)
 // *** otherwise, the error will stop the rest of your code from running
 console.log("%cQuestion 2", "color: red") 
 
+const name = "Danny"
 console.log(name)
 // => "Raffy"
-name = "Not Raffy" 
+// name = "Not Raffy" 
 // => TypeError
 console.log("%c----------", "color: red") 
 
